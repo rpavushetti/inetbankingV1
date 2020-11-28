@@ -1,0 +1,20 @@
+package hackerRank;
+import java.util.*;
+
+public class ReverseString {
+	
+	public static void main(String args[]) {
+		
+		Scanner sc = new Scanner(System.in);
+		System.out.println("Enter a string");
+		String s = sc.nextLine();
+		StringBuffer sb = new StringBuffer(s);
+		System.out.println(sb);
+		StringBuffer sb2 = sb.reverse();
+		System.out.println(sb2);
+		if(sb.equals(sb2)) {
+			System.out.println("palidrome");
+		} else System.out.println("not");
+	}
+
+}

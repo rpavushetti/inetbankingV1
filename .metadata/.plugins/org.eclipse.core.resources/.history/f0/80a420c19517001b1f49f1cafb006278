@@ -1,0 +1,43 @@
+package hackerRank;
+
+import java.util.*;
+
+public class CountNumberWords {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		Scanner sc = new Scanner(System.in);
+		String str = sc.nextLine();
+		
+		String [] sArray = str.split(" ");
+		
+		HashMap<String,Integer> hm = new HashMap<String,Integer>();
+		for(int i=0;i<sArray.length;i++) {
+			
+			if(hm.containsKey(sArray[i])) {
+				hm.put((sArray[i]), hm.get(sArray[i])+1);
+			}else {
+				hm.put(sArray[i], 1);
+			}
+			
+		
+			
+		}
+		for(Map.Entry temp:hm.entrySet()) { 
+			System.out.println("The key is " +temp.getKey()+ "  value is" +temp.getValue() );
+		}
+		System.out.println(hm);
+		Iterator<String> itr = hm.keySet().iterator();
+		while(itr.hasNext()) {
+			
+			String temp = itr.next();
+			if(hm.get(temp)>1) {
+				System.out.println(temp + "  repeated  " + hm.get(temp)+ "  times");
+			}
+		}
+		
+
+	}
+
+}

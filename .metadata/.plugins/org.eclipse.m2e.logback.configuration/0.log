@@ -1,0 +1,118 @@
+2020-10-26 18:25:36,563 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-10-26 18:28:29,968 [Worker-4: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Practice:com.Practice.Udemy:0.0.1-SNAPSHOT @ C:\Users\ravip\eclipse-workspace\com.Practice.Udemy\pom.xml.
+2020-10-26 18:28:29,968 [Worker-3: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Practice:com.Practice.Udemy:0.0.1-SNAPSHOT @ C:\Users\ravip\eclipse-workspace\com.Practice.Udemy\pom.xml.
+2020-10-26 18:28:39,665 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 18:28:39,666 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ravip\eclipse-workspace\com.Practice.Udemy\src\main\resources
+2020-10-26 18:28:39,669 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 18:28:39,669 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ravip\eclipse-workspace\com.Practice.Udemy\src\test\resources
+2020-10-26 18:28:42,212 [Worker-8: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Practice:com.Practice.Udemy:0.0.1-SNAPSHOT @ C:\Users\ravip\eclipse-workspace\com.Practice.Udemy\pom.xml.
+2020-10-26 18:28:42,753 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 18:28:42,753 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ravip\eclipse-workspace\com.Practice.Udemy\src\main\resources
+2020-10-26 18:28:42,757 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 18:28:42,758 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ravip\eclipse-workspace\com.Practice.Udemy\src\test\resources
+2020-10-26 18:28:44,374 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 18:28:44,375 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ravip\eclipse-workspace\com.Practice.Udemy\src\main\resources
+2020-10-26 18:28:44,378 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 18:28:44,378 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ravip\eclipse-workspace\com.Practice.Udemy\src\test\resources
+2020-10-26 18:28:49,637 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 18:28:49,638 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ravip\eclipse-workspace\com.Practice.Udemy\src\main\resources
+2020-10-26 18:28:49,641 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 18:28:49,642 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ravip\eclipse-workspace\com.Practice.Udemy\src\test\resources
+2020-10-26 18:33:57,667 [Worker-9: Launching ReverseString] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 18:33:57,667 [Worker-9: Launching ReverseString] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ravip\eclipse-workspace\com.Practice.Udemy\src\main\resources
+2020-10-26 18:33:57,670 [Worker-9: Launching ReverseString] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 18:33:57,670 [Worker-9: Launching ReverseString] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ravip\eclipse-workspace\com.Practice.Udemy\src\test\resources
+2020-10-26 18:34:18,560 [Worker-8: Launching ReverseString] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 18:34:18,561 [Worker-8: Launching ReverseString] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ravip\eclipse-workspace\com.Practice.Udemy\src\main\resources
+2020-10-26 18:34:18,563 [Worker-8: Launching ReverseString] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 18:34:18,563 [Worker-8: Launching ReverseString] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ravip\eclipse-workspace\com.Practice.Udemy\src\test\resources
+2020-10-26 18:39:40,712 [Worker-9: Launching ReverseString] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 18:39:40,727 [Worker-9: Launching ReverseString] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ravip\eclipse-workspace\com.Practice.Udemy\src\main\resources
+2020-10-26 18:39:40,730 [Worker-9: Launching ReverseString] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 18:39:40,730 [Worker-9: Launching ReverseString] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ravip\eclipse-workspace\com.Practice.Udemy\src\test\resources
+2020-10-26 18:44:47,546 [Worker-9: Launching ReverseString] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 18:44:47,546 [Worker-9: Launching ReverseString] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ravip\eclipse-workspace\com.Practice.Udemy\src\main\resources
+2020-10-26 18:44:47,551 [Worker-9: Launching ReverseString] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 18:44:47,551 [Worker-9: Launching ReverseString] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ravip\eclipse-workspace\com.Practice.Udemy\src\test\resources
+2020-10-26 18:45:26,524 [Worker-11: Launching ReverseString] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 18:45:26,525 [Worker-11: Launching ReverseString] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ravip\eclipse-workspace\com.Practice.Udemy\src\main\resources
+2020-10-26 18:45:26,532 [Worker-11: Launching ReverseString] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 18:45:26,532 [Worker-11: Launching ReverseString] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ravip\eclipse-workspace\com.Practice.Udemy\src\test\resources
+2020-10-26 18:46:16,539 [Worker-8: Launching ReverseString] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 18:46:16,539 [Worker-8: Launching ReverseString] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ravip\eclipse-workspace\com.Practice.Udemy\src\main\resources
+2020-10-26 18:46:16,542 [Worker-8: Launching ReverseString] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 18:46:16,542 [Worker-8: Launching ReverseString] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ravip\eclipse-workspace\com.Practice.Udemy\src\test\resources
+2020-10-26 18:48:02,031 [Worker-11: Launching ReverseString] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 18:48:02,032 [Worker-11: Launching ReverseString] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ravip\eclipse-workspace\com.Practice.Udemy\src\main\resources
+2020-10-26 18:48:02,035 [Worker-11: Launching ReverseString] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 18:48:02,035 [Worker-11: Launching ReverseString] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ravip\eclipse-workspace\com.Practice.Udemy\src\test\resources
+2020-10-26 18:49:17,245 [Worker-11: Launching ReverseString] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 18:49:17,246 [Worker-11: Launching ReverseString] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ravip\eclipse-workspace\com.Practice.Udemy\src\main\resources
+2020-10-26 18:49:17,248 [Worker-11: Launching ReverseString] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 18:49:17,249 [Worker-11: Launching ReverseString] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ravip\eclipse-workspace\com.Practice.Udemy\src\test\resources
+2020-10-26 18:52:03,071 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 18:52:03,071 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ravip\eclipse-workspace\com.Practice.Udemy\src\main\resources
+2020-10-26 18:52:03,074 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 18:52:03,074 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ravip\eclipse-workspace\com.Practice.Udemy\src\test\resources
+2020-10-26 19:03:18,056 [Worker-14: Launching CountNumberWords] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 19:03:18,057 [Worker-14: Launching CountNumberWords] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ravip\eclipse-workspace\com.Practice.Udemy\src\main\resources
+2020-10-26 19:03:18,059 [Worker-14: Launching CountNumberWords] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 19:03:18,059 [Worker-14: Launching CountNumberWords] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ravip\eclipse-workspace\com.Practice.Udemy\src\test\resources
+2020-10-26 19:09:41,034 [Worker-15: Launching CountNumberWords] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 19:09:41,035 [Worker-15: Launching CountNumberWords] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ravip\eclipse-workspace\com.Practice.Udemy\src\main\resources
+2020-10-26 19:09:41,039 [Worker-15: Launching CountNumberWords] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 19:09:41,039 [Worker-15: Launching CountNumberWords] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ravip\eclipse-workspace\com.Practice.Udemy\src\test\resources
+2020-10-26 19:10:17,792 [Worker-1: Launching CountNumberWords] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 19:10:17,793 [Worker-1: Launching CountNumberWords] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ravip\eclipse-workspace\com.Practice.Udemy\src\main\resources
+2020-10-26 19:10:17,799 [Worker-1: Launching CountNumberWords] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 19:10:17,799 [Worker-1: Launching CountNumberWords] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ravip\eclipse-workspace\com.Practice.Udemy\src\test\resources
+2020-10-26 19:43:18,432 [Worker-19: Launching CountNumberWords] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 19:43:18,556 [Worker-19: Launching CountNumberWords] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ravip\eclipse-workspace\com.Practice.Udemy\src\main\resources
+2020-10-26 19:43:18,559 [Worker-19: Launching CountNumberWords] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 19:43:18,559 [Worker-19: Launching CountNumberWords] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ravip\eclipse-workspace\com.Practice.Udemy\src\test\resources
+2020-10-26 19:44:15,694 [Worker-1: Launching CountNumberWords] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 19:44:15,695 [Worker-1: Launching CountNumberWords] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ravip\eclipse-workspace\com.Practice.Udemy\src\main\resources
+2020-10-26 19:44:15,697 [Worker-1: Launching CountNumberWords] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 19:44:15,697 [Worker-1: Launching CountNumberWords] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ravip\eclipse-workspace\com.Practice.Udemy\src\test\resources
+2020-10-26 19:45:33,976 [Worker-20: Launching CountNumberWords] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 19:45:33,977 [Worker-20: Launching CountNumberWords] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ravip\eclipse-workspace\com.Practice.Udemy\src\main\resources
+2020-10-26 19:45:33,980 [Worker-20: Launching CountNumberWords] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 19:45:33,981 [Worker-20: Launching CountNumberWords] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ravip\eclipse-workspace\com.Practice.Udemy\src\test\resources
+2020-10-26 19:45:52,412 [Worker-8: Launching CountNumberWords] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 19:45:52,413 [Worker-8: Launching CountNumberWords] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ravip\eclipse-workspace\com.Practice.Udemy\src\main\resources
+2020-10-26 19:45:52,415 [Worker-8: Launching CountNumberWords] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 19:45:52,415 [Worker-8: Launching CountNumberWords] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ravip\eclipse-workspace\com.Practice.Udemy\src\test\resources
+2020-10-27 10:35:04,048 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-10-27 10:48:24,238 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-27 10:48:24,240 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ravip\eclipse-workspace\com.Practice.Udemy\src\main\resources
+2020-10-27 10:48:24,246 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-27 10:48:24,246 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ravip\eclipse-workspace\com.Practice.Udemy\src\test\resources
+2020-10-27 19:34:52,175 [Worker-9: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-10-28 17:00:50,751 [Worker-34: Creating maven-archetype-quickstart] ERROR o.e.m.c.i.p.ProjectConfigurationManager - Unable to create project from archetype [org.apache.maven.archetypes:maven-archetype-quickstart:1.4 -> https://repo1.maven.org/maven2]
+org.apache.maven.archetype.exception.ArchetypeGenerationFailure: org.apache.maven.archetype.exception.InvalidPackaging: Unable to add module to the current project as it is not of packaging type 'pom'
+	at org.apache.maven.archetype.generator.DefaultFilesetArchetypeGenerator.generateArchetype(DefaultFilesetArchetypeGenerator.java:237) ~[archetype-common-2.4.jar:2.4]
+	at org.apache.maven.archetype.generator.DefaultArchetypeGenerator.processFileSetArchetype(DefaultArchetypeGenerator.java:129) ~[archetype-common-2.4.jar:2.4]
+	at org.apache.maven.archetype.generator.DefaultArchetypeGenerator.generateArchetype(DefaultArchetypeGenerator.java:100) ~[archetype-common-2.4.jar:2.4]
+	at org.apache.maven.archetype.generator.DefaultArchetypeGenerator.generateArchetype(DefaultArchetypeGenerator.java:143) ~[archetype-common-2.4.jar:2.4]
+	at org.apache.maven.archetype.generator.DefaultArchetypeGenerator.generateArchetype(DefaultArchetypeGenerator.java:169) ~[archetype-common-2.4.jar:2.4]
+	at org.apache.maven.archetype.DefaultArchetypeManager.generateProjectFromArchetype(DefaultArchetypeManager.java:73) ~[archetype-common-2.4.jar:2.4]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.createArchetypeProjects0(ProjectConfigurationManager.java:840) [org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.lambda$3(ProjectConfigurationManager.java:790) [org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179) ~[org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153) ~[org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101) ~[org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1375) ~[org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.createArchetypeProjects(ProjectConfigurationManager.java:790) [org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.core.ui.internal.wizards.MavenProjectWizard$4.doCreateMavenProjects(MavenProjectWizard.java:239) ~[org.eclipse.m2e.core.ui_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.core.ui.internal.wizards.AbstractCreateMavenProjectJob$1.doCreateMavenProjects(AbstractCreateMavenProjectJob.java:65) ~[org.eclipse.m2e.core.ui_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.core.ui.internal.wizards.AbstractCreateMavenProjectsOperation.run(AbstractCreateMavenProjectsOperation.java:75) ~[org.eclipse.m2e.core.ui_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.core.ui.internal.wizards.AbstractCreateMavenProjectJob.runInWorkspace(AbstractCreateMavenProjectJob.java:69) ~[org.eclipse.m2e.core.ui_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:42) ~[org.eclipse.core.resources_3.13.600.v20191122-2104.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.600.v20191122-2104.jar:na]
+Caused by: org.apache.maven.archetype.exception.InvalidPackaging: Unable to add module to the current project as it is not of packaging type 'pom'
+	at org.apache.maven.archetype.common.DefaultPomManager.addModule(DefaultPomManager.java:99) ~[archetype-common-2.4.jar:2.4]
+	at org.apache.maven.archetype.generator.DefaultFilesetArchetypeGenerator.processPomWithParent(DefaultFilesetArchetypeGenerator.java:680) ~[archetype-common-2.4.jar:2.4]
+	at org.apache.maven.archetype.generator.DefaultFilesetArchetypeGenerator.processFilesetProject(DefaultFilesetArchetypeGenerator.java:621) ~[archetype-common-2.4.jar:2.4]
+	at org.apache.maven.archetype.generator.DefaultFilesetArchetypeGenerator.processFilesetModule(DefaultFilesetArchetypeGenerator.java:564) ~[archetype-common-2.4.jar:2.4]
+	at org.apache.maven.archetype.generator.DefaultFilesetArchetypeGenerator.generateArchetype(DefaultFilesetArchetypeGenerator.java:203) ~[archetype-common-2.4.jar:2.4]
+	... 18 common frames omitted
