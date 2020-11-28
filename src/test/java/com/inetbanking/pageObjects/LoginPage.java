@@ -9,9 +9,9 @@ import org.openqa.selenium.support.PageFactory;
 
 public class LoginPage {
 
-	RemoteWebDriver ldriver;
+	WebDriver ldriver;
 	
-	public LoginPage(RemoteWebDriver rdriver)
+	public LoginPage(WebDriver rdriver)
 	{
 		ldriver=rdriver;
 		PageFactory.initElements(rdriver, this);

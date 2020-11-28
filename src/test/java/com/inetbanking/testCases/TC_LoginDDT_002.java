@@ -10,7 +10,7 @@ import org.testng.annotations.Test;
 import com.inetbanking.pageObjects.LoginPage;
 import com.inetbanking.utilities.XLUtils;
 
-public class TC_LoginDDT_002 extends BaseClass
+public class TC_LoginDDT_002 extends BaseClass2
 {
 
 	@Test(dataProvider="LoginData")

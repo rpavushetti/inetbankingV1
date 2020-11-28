@@ -10,9 +10,9 @@ import org.openqa.selenium.support.PageFactory;
 
 public class AddCustomerPage {
 
-	RemoteWebDriver ldriver;
+	WebDriver ldriver;
 	
-	public AddCustomerPage(RemoteWebDriver rdriver) {
+	public AddCustomerPage(WebDriver rdriver) {
 		ldriver=rdriver;
 		PageFactory.initElements(rdriver, this);
 	}

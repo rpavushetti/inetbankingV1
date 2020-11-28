@@ -9,7 +9,7 @@ import org.testng.annotations.Test;
 import com.inetbanking.pageObjects.AddCustomerPage;
 import com.inetbanking.pageObjects.LoginPage;
 
-public class TC_AddCustomerTest_003 extends BaseClass
+public class TC_AddCustomerTest_003 extends BaseClass1
 {
 
 	@Test
