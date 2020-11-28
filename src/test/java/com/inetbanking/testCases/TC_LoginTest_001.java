@@ -2,15 +2,12 @@ package com.inetbanking.testCases;
 
 
 import java.io.IOException;
-
-
 import org.testng.Assert;
 import org.testng.annotations.Test;
-
 import com.inetbanking.pageObjects.LoginPage;
 
 
-public class TC_LoginTest_001 extends BaseClass2
+public class TC_LoginTest_001 extends BaseClass1
 {
 
 	@Test
