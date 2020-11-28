@@ -20,7 +20,7 @@ import org.testng.annotations.Parameters;
 
 import com.inetbanking.utilities.ReadConfig;
 
-public class BaseClass2 {
+public class BaseClass {
 
 	ReadConfig readconfig=new ReadConfig();
 	

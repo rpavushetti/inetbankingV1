@@ -29,7 +29,7 @@ import org.testng.annotations.Parameters;
 
 import com.inetbanking.utilities.ReadConfig;
 
-public class BaseClass {
+public class BaseClass1 {
 
 	ReadConfig readconfig=new ReadConfig();
 	
